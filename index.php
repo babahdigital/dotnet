@@ -32,9 +32,9 @@ $lines = count(file($filePath));
 		<meta name="robots" content="noindex,nofollow">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="icon" type="image/png" href="https://d2hc6wkzasonnl.cloudfront.net/favicon.ico">
-        <link rel="stylesheet" type="text/css" href="https://d2hc6wkzasonnl.cloudfront.net/dist/css/bootstrap.min.css" />
-		<link rel="stylesheet" type="text/css" href="https://d2hc6wkzasonnl.cloudfront.net/style.css" />
+		<link rel="icon" type="image/png" href="favicon.ico">
+        <link rel="stylesheet" type="text/css" href="/dist/css/bootstrap.min.css" />
+		<link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
 <body>
   <div class="container" style="max-width: 650px;">
@@ -59,9 +59,9 @@ $lines = count(file($filePath));
     </a>      
   </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-<script src="https://d2hc6wkzasonnl.cloudfront.net/main.js"></script>
-<script src="https://d2hc6wkzasonnl.cloudfront.net/dist/js/bootstrap.bundle.min.js"></script>
-<script src="https://d2hc6wkzasonnl.cloudfront.net/dist/js/bootstrap.min.js"></script>
+<script src="main.js"></script>
+<script src="/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/dist/js/bootstrap.min.js"></script>
 </body></html>
 <?php
 ob_end_flush();
