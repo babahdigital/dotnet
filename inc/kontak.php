@@ -5,8 +5,8 @@ if($_POST) {
     $email_title = "Kontak Dari Server Utama";
     $visitor_telpon = "";
     $visitor_message = "";
-	$recipient = "babahcloud@gmail.com";
-	$dari = "no-replay@babahdigital.net";
+	$recipient = "xxxx@gmail.com";
+	$dari = "no-replay@xxxx.com";
 	$clienttitle = "[No-Replay] - BabahDigital";
 	$clientmsg = "Terima Kasih Telah Menghubungi Kami, <br />Team Kami Akan Segera Menghubungi Anda. <br /><br /><br />TTD <br />BabahDigital";
     
